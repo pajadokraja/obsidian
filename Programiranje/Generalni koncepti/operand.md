@@ -1,0 +1,1 @@
+Operand je stvar na kojoj operator radi. 

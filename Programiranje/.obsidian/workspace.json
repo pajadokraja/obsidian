@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "263ab6f74187b904",
+    "type": "split",
+    "children": [
+      {
+        "id": "c23338a5376e2fa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b01e724c3099d68f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/metodiIFunkcije/number/Math/Math.ceil().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d3b3d385f404039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/metodiIFunkcije/number/isNaN().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5d00150077cee4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb31288c142e069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "012fa6409df3c3dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7a480e6c11568c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f279d908a007b35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "773ff0cf7c2e3460",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2eca2a143801d5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ac1a4bea893f7e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript/metodiIFunkcije/number/Math/Math.ceil().md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab85737cba16d8ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript/metodiIFunkcije/number/Math/Math.ceil().md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "166bcb33805dd8f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29ef12be8ac95cca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/metodiIFunkcije/number/Math/Math.ceil().md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "012fa6409df3c3dd",
+  "lastOpenFiles": [
+    "Javascript/metodiIFunkcije/number/Math/Math.ceil().md",
+    "Javascript/metodiIFunkcije/number/Math/Math.random().md",
+    "Javascript/metodiIFunkcije/number/Math/Math.floor().md",
+    "Javascript/metodiIFunkcije/number/isNaN().md",
+    "Untitled.md",
+    "templates/functionTemplate.md",
+    "Javascript/dataType.md",
+    "Javascript/object.md",
+    "Javascript/method.md",
+    "Javascript/number.md",
+    "Javascript/string.md",
+    "substr.md",
+    "templates/roundingTemplate.md",
+    "Javascript/null.md",
+    "Javascript/math.md",
+    "Javascript/loop.md",
+    "Javascript/logicalOperators.md",
+    "Javascript/immutable.md",
+    "Javascript/function.md",
+    "Javascript/constructor.md",
+    "Javascript/constants.md",
+    "Javascript/conditional.md",
+    "Javascript/comparison.md",
+    "Javascript/comment.md",
+    "Javascript/boolean.md",
+    "Javascript/bigint.md",
+    "Javascript/metodiIFunkcije/inputOutput",
+    "Javascript/metodiIFunkcije/number/Math",
+    "Javascript/metodiIFunkcije/number",
+    "Javascript/metodiIFunkcije/string",
+    "Javascript/metodiIFunkcije",
+    "templates",
+    "Generalni koncepti",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "statements",
+    "HTML",
+    "Javascript"
+  ]
+}

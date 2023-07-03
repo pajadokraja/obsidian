@@ -1,0 +1,1 @@
+Vraca true ako se [[string]] zavrsava sa podstringom, false ako ne.

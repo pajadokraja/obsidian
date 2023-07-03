@@ -1,0 +1,1 @@
+Modalno znaci da korisnik mora da ima interakciju sa time pre nego sto moze da nastavi da koristi sajt

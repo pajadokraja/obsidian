@@ -1,0 +1,1 @@
+Nacin da se radi na [[primitive]] pomocu [[method]]. U sustini kada god pozovemo metod na primitivnom tipu podatka, js napravi privremen objekat sa definisanim metodama, primeni potrebnu metodu, vrati rezultat i onda obrise taj objekat.

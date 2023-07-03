@@ -1,0 +1,1 @@
+Strukturisano kloniranje, koristi se za kloniranje ukoliko imamo objekte nestovane u druge objekte.
